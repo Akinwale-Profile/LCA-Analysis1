@@ -7,8 +7,9 @@ The objective is to create a detailed Life Cycle Inventory (LCI) that quantifies
 ## Methodology:
 This LCA was conducted using a detailed Excel-based analysis. The process involved:
 
-- Material Assessment: Compiling a comprehensive inventory of materials used in the refrigerator, including steel, aluminum, plastics, and refrigerants, and documenting their respective quantities and uses.
+- Material Assessment: Compile a comprehensive inventory of refrigerator materials, including steel, aluminum, plastics, and refrigerants, and document their respective quantities and uses.
 - Data Compilation: Integrating manufacturing processes (e.g., cold-rolled steel, injection molding), transportation distances (e.g., ocean freight, rail, and truck), and disposal pathways (e.g., landfill).
-- Operational Analysis: Evaluating energy consumption during the refrigerator's use phase (613.2 kWh/year over 15 years).
+- Operational Analysis: This evaluates energy consumption during the refrigerator's use phase (613.2 kWh/year over 15 years).
 - Documentation: Recording assumptions, data sources, and calculation methods within the Excel workbook to ensure transparency and repeatability.
+  
 This structured approach allowed for a detailed evaluation of the refrigerator’s life cycle impacts, facilitating data-driven recommendations for sustainability improvements.
