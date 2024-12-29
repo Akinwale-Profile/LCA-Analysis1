@@ -1,3 +1,4 @@
+![Screenshot (191)](https://github.com/user-attachments/assets/faf53177-28b8-4b08-83a8-5fb396af5032)
 ## Goal:
 The goal of this LCA is to evaluate and quantify the environmental impacts associated with the life cycle of a refrigerator over its 15-year operational lifetime. The assessment covers material extraction, manufacturing, transportation, usage, and end-of-life disposal, aiming to provide a detailed understanding of the refrigerator's environmental footprint within defined system boundaries.
 
